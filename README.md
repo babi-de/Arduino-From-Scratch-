@@ -9,6 +9,6 @@ Learning Arduino, sensors, and embedded circuits from scratch using Tinkercad si
 - **04-RGB LED**: Multi-color RGB mixing logic.
 - **Potentiometer-Analog-Input**: Reading analog values with potentiometer.
 
- 🛠️ Stack & Tools
+### Stack Tools:
 - Arduino C / C++
 - Tinkercad Simulator
